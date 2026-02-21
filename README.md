@@ -21,3 +21,21 @@ Visual data is sometimes categorical, especially when it consists of a small num
 For instance, when reasoning about integers (whole numbers), we conceptualize them as words, rather than lengths in space. The sequence of words known as counting—"one, two, three, four, five..."—is a kind of prose poem that corresponds with numbers through a one-to-one relationship. "One duck" means "🦆," "two ducks" means "🦆🦆," "three ducks" means "🦆🦆🦆," and so on. Although no one has ever uttered it, this prose poem has rules that describe how it continues to very high numbers: "million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, undecillion, duodecillion, etc." provide a vocabulary for ever-increasing scales (derived from Latin prefixes), and there are rules for constructing and interpreting a number like "five quadrillion, two million and seventeen." The decimal form of a number, such as "5,000,002,000,017", is also linguistic: it has a vocabulary of ten digit-words, a very simple grammar, and a rule for associating any such sequence with a numerical concept.
 
 Just as European mathematics had an emphasis on geometry, influenced by Euclid's _Elements_, Indian mathematics had an emphasis on number theory and combinatorics, influenced by Pingala and other mathematicians who were more interested in poetry than shapes. Pingala's _Chandaḥśāstra_ (on prosody) counts the number of possible poetic forms using combinatorial algorithms, introducing binary numbers to represent patterns of short and long syllables, as well as recursion and what we call Pascal's Triangle and Fibonacci Numbers (in the 3rd‒2nd century BCE). Ancient Indian mathematics emphasized combinatorics, number theory, algebra, and algorithms (both "al"s from from India through Arabic), making up what today call discrete mathematics. It was also much more oral: whereas Niccolò Tartaglia felt compelled to draw interlocking shapes to describe his solution to the cubic equation in 1545, Indian mathematicians relied more heavily on spoken and memorized sequences. For instance, Madhava of Sangamagrama (1340‒1425 CE) computed sine and cosine tables that were then memorized using a mnemonic system of associating digits with spoken syllables (the Katapayadi system).
+
+Beyond numbers, language is a model for logic. Language follows grammatical rules that can be more or less formal—in 6th‒5th century BCE India, Pāṇini wrote an exact (completely formal, no exceptions) grammar of Sanskrit as a sequence of 3,996 rules. In Europe and India (and elsewhere in the world), valid and invalid logical deductions were increasingly formalized in patterns shaped like the patterns of grammar: word sequences with blanks that could only be filled by applying rules. For example,
+* Classical syllogism: "All A are B; C is an A; therefore C is B." → "All men are mortal; Socrates is a man; therefore Socrates is mortal."
+* Hypothetical syllogism: "If A, then B; if B, then C; therefore, if A, then C."
+* Disjunctive syllogism: "A is true or B is true; A is false; therefore, B is true."
+* Nyāya syllogism: 
+  * Proposition: "There is fire on the hill."
+  * Reason: "Because there is smoke."
+  * Example: "Wherever there is smoke, there is fire, like in a kitchen."
+  * Application: "The hill has smoke, which is similar to the kitchen case."
+  * Conclusion: "Therefore, there is fire on the hill."
+* Catuṣkoṭi (Buddhist four-cornered logic): "A; not A; both A and not A; neither A nor not A."
+
+Modern logic (from George Boole, Gottlob Frege, Bertrand Russell, and others) has been systemized to the point of pure typographic rules applied to symbols on a page, like algebra. The functioning of computers, the theory of programming languages, data types, and symbolic programming are all deeply dependent on this mode of thinking, which is as linguistic and oral as vector spaces are visual.
+
+## Smells
+
+asdf
