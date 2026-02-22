@@ -89,7 +89,9 @@ Some ways of organizing normative values fall back on our usual tools for analyz
 
 This procedure is very similar to optimizing a fit in supervised machine learning. (Perhaps unsurprisingly, Effective Altruism, a movement that's highly influenced by Utilitarianism, is popular in machine learning circles.) To fit a model to data or train a machine to generate data like a given dataset, one must define an objective function that measures the goodness or badness of the current response and then optimize that function. It is essential that the objective function—and the utility function in Utilitarianism—outputs a single, real number for every input, or at least a quantity with strict ordering. If there is not way to say whether output A is less than or greater than output B, then we can't optimize the function. For instance, if you're optimizing a machine learning model to detect credit card fraud, you want to detect as much fraud as possible but bother customers with alerts as little as possible, but you can't optimize two separate metrics: you have to say how much undetected fraud is worth how much customer annoyance, in a single unit of measure (perhaps dollars). If, as in the Ford Pinto case (1981), you use a cost-benefit analysis to weigh car repairs and wrongful deaths in the same objective function, you have to express the value of human life in the same units as car repairs (also dollars).
 
-The problem is that our perception of ethical values strongly resists 
+The problem is that our perception of ethical values strongly resists quantitative comparisons between components of the ethical vector. The many variants on the Trolley Problem explore people's intuitions about how to compare the moral value of different actions, such as actively killing one person versus passively allowing five to die, and the results show a great deal of inconsistency. If there is a true exchange rate that says how many lives actively pulling the switch is worth, or how many car repairs one human life is worth, then we don't consistently intuit it.
+
+The failure of one good (saving five lives on a trolley track) to cancel out an evil (murdering one person on another trolley track) to end up with a net of zero may also explain akrasia is possible. Some, like Socrates, have argued that if a person knows what is good, they will automatically do that good—what appears to be moral weakness is actually just lack of knowledge. It might seem so if one thinks of the will to go to the gym and the will to stay home as lengths that can be directly compared or added to see which side of zero the sum lies. In such a world, one might say, "the value of being healthy is slightly better than the joy of relaxation, so I will exercise without remorse" or "the value of being comfortable outweighs the health benefits, so I will stay home without guilt," but in reality, the benefits of the choice not taken linger emotionally.
 
 
 
@@ -99,7 +101,5 @@ The problem is that our perception of ethical values strongly resists
 
 
 
-
-akrasia
 
 instrumental goods can be derived, intrinsic ones come from feelings
