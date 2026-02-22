@@ -62,3 +62,13 @@ But smells are also different in that they are hard to fit into vector spaces or
 If we can't express different components of the smell vector in the same units, then we can't add components to "rotate" the vector, either. Furthermore, this vector has no concept of length—the total smell, summed over all the individual smells.
 
 Just as smells don't fit into a vector space well, they don't have the categorical strictness or temporal sequencing to be language-like, either. Smells fail to be categorical in several ways: there's a difference between a weak smell and a strong smell, without the sharp distinctions that separate phonemes, and two smells that one person considers different types another person might consider the same type. Our "manure" column label might include both the smell of manure on a farm and the smell of a city sewer, or these might be different. The continuity doesn't have standardized clusters as language does, even within a shared culture.
+
+Of course it's possible to identify which odorant molecules activate distinct physiological pathways in the human nose, measure the density of these molecules in the air, fill a table, and draw a chart. In this form, the fundamental set of types of odorants are enumerable (the "basis set" in vector terminology), and the number of one type of molecule can be measured relative to another. But this has replaced the sense of smell with machines that are read out visually by reading dials or aurally by counting clicks—the experiment could be performed by a scientist with no sense of smell at all. Such an analysis would bypass the subjective sense of smell.
+
+## Emotions and Values
+
+asdf
+
+## Ethics
+
+asdf
