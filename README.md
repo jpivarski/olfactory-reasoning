@@ -16,7 +16,7 @@ As the sciences developed over the past few centuries, data came to be cast more
 
 ## Sounds
 
-Some aspects of rational thought are not easily expressed as tables of real numbers, but many of them fit a different metaphor instead, derived from language. Human hearing is sensitive to an almost continuous range of pitches, but we nevertheless force them into categorically distinct pitches when we make or listen to music: notes conform to a scale. Different cultures have different scales, and one culture's notes might be "micro-tones" when measured on another culture's scales, but all traditional music locks into some set of distinguishable pitches. Similarly, human speech can make use of wide variety of sounds, and yet we cluster sounds into distinguishable phonemes with standardized vowel formants, intonation, voicing, lengths of aspiration, and place of articulation. Different languages can have completely different sets of phonemes, but within a language, phonemes are consistent with sharp boundaries between them: "b" and "bet" need to be distinguishable from "p" and "pet." Oral reasoning tends to be categorical.
+Some aspects of rational thought are not easily expressed as tables of real numbers, but many of them instead fit a different metaphor, derived from language. Human hearing is sensitive to an almost continuous range of pitches, but we nevertheless force them into categorically distinct pitches when we make or listen to music: notes conform to a scale. Different cultures have different scales, and one culture's notes might be "micro-tones" when measured on another culture's scales, but all traditional music locks into some set of distinguishable pitches. Similarly, human speech can make use of wide variety of sounds, and yet we cluster sounds into distinguishable phonemes with standardized vowel formants, intonation, voicing, lengths of aspiration, and places of articulation. Different languages can have completely different sets of phonemes, but within a language, phonemes are consistent with sharp boundaries between them: "b" and "bet" need to be distinguishable from "p" and "pet." Oral reasoning tends to be categorical.
 
 Visual data is sometimes categorical, especially when it consists of a small number of sharply contrasting colors, like different kinds of fruits that stand out from the background leaves. But language analogies are more often our source of metaphors when we want to analyze categorical data.
 
@@ -26,18 +26,21 @@ For instance, when reasoning about integers (whole numbers), we conceptualize th
 * 🦆🦆🦆
 * 🦆🦆🦆🦆
 * 🦆🦆🦆🦆🦆
+
 and the sequence
 * 🗿
 * 🗿🗿
 * 🗿🗿🗿
 * 🗿🗿🗿🗿
 * 🗿🗿🗿🗿🗿
+
 also has a one-to-one relationship with the word sequence
 * one
 * two
 * three
 * four
 * five
+
 Although no one has ever uttered it, this prose poem has rules that describe how it continues to very high numbers: "million, billion, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, undecillion, duodecillion, etc." provides a vocabulary for ever-increasing scales (derived from Latin prefixes), and there are rules for constructing and interpreting a number like "five quadrillion, two million and seventeen." The decimal form of a number, such as "5,000,000,002,000,017", is also linguistic: it has a vocabulary of ten digit-words, a very simple grammar, and a rule for associating any such sequence with a numerical concept.
 
 Just as European mathematics had an emphasis on geometry, influenced by Euclid's _Elements_ and Zeno's distance paradox, Indian mathematics had an emphasis on number theory and combinatorics, influenced by Pingala and other mathematicians who were more interested in enumeration and poetry than shapes and distance. Pingala's _Chandaḥśāstra_ ("on prosody", 3rd‒2nd century BCE) counts the number of possible poetic forms using combinatorial algorithms, introducing binary numbers to represent patterns of short and long syllables, as well as recursion and what we call Pascal's Triangle and Fibonacci Numbers. Ancient Indian mathematics emphasized combinatorics, number theory, algebra, and algorithms (both "al"s from from India through Arabic), making up what today call discrete mathematics. It was also much more oral: whereas Niccolò Tartaglia (1545) felt compelled to draw interlocking 3D shapes to describe his solution to the cubic equation, Indian mathematicians were more comfortable with word sequences and symbols. For instance, Madhava of Sangamagrama (1340‒1425 CE) computed sine and cosine tables that were then memorized using a mnemonic system (Katapayadi) of associating digits with spoken syllables.
