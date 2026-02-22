@@ -93,13 +93,12 @@ The problem is that our perception of ethical values strongly resists quantitati
 
 The failure of one good (saving five lives on a trolley track) to cancel out an evil (murdering one person on another trolley track) to end up with a net of zero may also explain akrasia is possible. Some, like Socrates, have argued that if a person knows what is good, they will automatically do that good—what appears to be moral weakness is actually just lack of knowledge. It might seem so if one thinks of the will to go to the gym and the will to stay home as lengths that can be directly compared or added to see which side of zero the sum lies. In such a world, one might say, "the value of being healthy is slightly better than the joy of relaxation, so I will exercise without remorse" or "the value of being comfortable outweighs the health benefits, so I will stay home without guilt," but in reality, the benefits of the choice not taken linger emotionally.
 
+By contrast, logic's language-oriented format is useful for reasoning about laws, codification of ethical values as rules, but only for instrumental values, not intrinsic values. If two people agree about the value of some fundamental thing, they can argue constructively about the different ways to get it. Even in the realm of instrumental values, logical thinking tends to be overly categorical, adhering to the letter of the law, rather than its spirit. But that's just the nature of logical thought, which is not a perfect fit to values and ethical views, which are more smell-like in nature.
 
+## Conclusion
 
+Reason relies more heavily on two senses more than any others—vision when assessing numerically comparable quantities and optimizing their sum, language when assessing categorical structures and algebraic templates. Emotions, values, and ethics don't fit either of these modes of thinking very well, though they do resemble the sense of smell, which is more strongly value-oriented, nebulous about categories and extents, but still sensitive to distinctions. Philosophical systems that attempt to force emotions, values, and ethics into visual or oral modes of thinking to make them "rational" seem to be missing an essential point. Perhaps the right approach is to develop smell-like ways of being rational.
 
+This may sound flippant, but small steps are being taken in this direction, even in technical fields. Computer programmers sometimes talk about how some computer code "smells," meaning that there is something wrong with it even when it functions correctly and satisfies formal tests. There are many ways to write the equivalent software, but some are easier or harder to maintain in the long run, and an experienced programmer develops an intuition for recognizing it, even when it evades the automated rules to check for bad patterns.
 
-
-
-
-
-
-instrumental goods can be derived, intrinsic ones come from feelings
+Perhaps if we legitimize ways of thinking that resemble smell more than sight and sound, or perhaps even touch, we can find ways of doing it that aren't simply arbitrary.
