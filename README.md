@@ -79,13 +79,27 @@ We can experience multiple emotions at the same time, just as we can smell multi
 
 The relationship of values and ethics to emotions is highly contested. Some philosophers see objects as having positive or negative values in themselves, while others believe that we give things value by what we feel about them. The source of ethics (metaethics) is even more hotly debated: some philosophers believe that statements about what we ought to do and what we ought not do are facts about the world in the same sense as facts about the existence and attributes of physical objects. Other philosophers believe that statements in ethics are expressions of feeling: "Thou shalt not kill" means "Boo, murder!" Schools of thought fill every fine distinction in between. In this essay, I'm not even going to address what values and ethics _really_ are. Whatever they are, we experience them as a kind of feeling. Whether I sense the real fact that murder is wrong through some sensory organ with access to the world of moral truths or I just personally don't like murder, it arrives as a feeling. Even if I don't feel that feeling myself but follow a law, whoever came up with the law had a feeling about it. In all cases, that feeling is more like a smell than a length or a grammatical rule, and attempts to cast values and ethics as vectors that can be optimized or rules that can be deduced have distorted them.
 
-Values are inescapable. A rational thinker can be value-neutral about their object of study, but they have to value rationality itself to stick to its strictures.
+Values are inescapable. A rational thinker can be value-neutral about their object of study, but they have to value rationality itself to stick to its strictures. We are continuously deciding to do things or not do things in every breath and blink of an eye, privileging the thing chosen over the thing not chosen implicitly if not explicitly. Being rational about our choices means organizing them in some way (because we value rationality!); it's not the difference between not choosing and choosing.
+
+Some ways of organizing normative values fall back on our usual tools for analyzing things rationally: vector spaces and deduction. Utilitarianism is an example of a metaethics that treats ethical choices as a vector space. The Utilitarian idea is that
+* the consequences of an action matters, not the actor's intent,
+* every consequence has a numerical value in the same units of measure,
+* these values can be summed in a single utility function,
+* the correct course of action is the one that maximizes the utility function.
+
+This procedure is very similar to optimizing a fit in supervised machine learning. (Perhaps unsurprisingly, Effective Altruism, a movement that's highly influenced by Utilitarianism, is popular in machine learning circles.) To fit a model to data or train a machine to generate data like a given dataset, one must define an objective function that measures the goodness or badness of the current response and then optimize that function. It is essential that the objective function—and the utility function in Utilitarianism—outputs a single, real number for every input, or at least a quantity with strict ordering. If there is not way to say whether output A is less than or greater than output B, then we can't optimize the function. For instance, if you're optimizing a machine learning model to detect credit card fraud, you want to detect as much fraud as possible but bother customers with alerts as little as possible, but you can't optimize two separate metrics: you have to say how much undetected fraud is worth how much customer annoyance, in a single unit of measure (perhaps dollars). If, as in the Ford Pinto case (1981), you use a cost-benefit analysis to weigh car repairs and wrongful deaths in the same objective function, you have to express the value of human life in the same units as car repairs (also dollars).
+
+The problem is that our perception of ethical values strongly resists 
 
 
 
 
 
 
-consequentialism
+
+
+
+
+akrasia
 
 instrumental goods can be derived, intrinsic ones come from feelings
