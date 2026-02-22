@@ -1,6 +1,6 @@
 # Olfactory Reasoning
 
-Most of what we consider rational thinking is strongly dependent on visual and oral metaphors. That is, when we analyze some aspect of the world in a value-free way, we usually conceptualize it with patterns of thought that work well for visible objects or human speech, but not as well for the other senses, such as touch and smell. However, some of the things we want to think about—emotions, values, and ethics—don't fit well into these visual and oral metaphors. These topics have a reputation for being not rational or hard to frame rationally, but what if we're mistaking clarity of thinking with a preference for our long-distance senses?
+Most of what we consider rational thinking is strongly dependent on visual and oral metaphors. That is, when we analyze some aspect of the world in a rigorous way, we usually conceptualize it with patterns of thought that work well for visible objects or human speech, but not as well for the other senses, such as touch and smell. However, some of the things we want to think about—emotions, values, and ethics—don't fit well into these visual and oral metaphors. These topics have a reputation for being not rational or hard to frame rationally, but what if we're mistaking clarity of thinking with a preference for our long-distance senses?
 
 ## Sights
 
